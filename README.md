@@ -21,7 +21,7 @@
 -->
 - 🔭 I’m available to hire.
 - 🌱 I’m currently learning Go.
-- 💬 Ask me about Android application or any tech related stuff.
+- 💬 Ask me about web and mobile development.
 - 📫 How to reach me: [Twitter - @ggramadhan__](https://twitter.com/ggramadhan__)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 8 hours listening songs everyday.
