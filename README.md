@@ -23,7 +23,6 @@
 - 🌱 I’m currently learning Go.
 - 💬 Ask me about web and mobile development.
 - 📫 How to reach me: [Twitter - @ggramadhan__](https://twitter.com/ggramadhan__)
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 8 hours listening songs everyday.
 
 [![Twitter: ggramadhan](https://img.shields.io/twitter/follow/ggramadhan__?style=social)](https://twitter.com/ggramadhan__)
