@@ -26,7 +26,7 @@
 - ⚡ Fun fact: I spend almost 8 hours listening songs everyday.
 
 [![Twitter: ggramadhan](https://img.shields.io/twitter/follow/ggramadhan__?style=social)](https://twitter.com/ggramadhan__)
-[![Linkedin: ggramadhann](https://img.shields.io/badge/-ggramadhann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ggramadhann/)](https://www.linkedin.com/in/ggramadhan/)
+[![Linkedin: ggramadhann](https://img.shields.io/badge/-ggramadhann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ggramadhann/)](https://www.linkedin.com/in/ggramadhann/)
 [![GitHub ggramadhan](https://img.shields.io/github/followers/ggramadhan?label=follow&style=social)](https://github.com/ggramadhan)
 <!--[![website](https://img.shields.io/badge/PortfolioWebsite-Gilang-2648ff?style=flat-square&logo=google-chrome)](url)-->
 
