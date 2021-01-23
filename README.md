@@ -20,10 +20,10 @@
 <br/>
 -->
 - 🔭 I’m available to hire.
-- 🌱 I’m currently learning Go.
-- 💬 Ask me about web and mobile development.
+- 🌱 I’m currently learning automated test.
+- 💬 Ask me about anything.
 - 📫 How to reach me: [Twitter - @ggramadhan__](https://twitter.com/ggramadhan__)
-- ⚡ Fun fact: I spend almost 8 hours listening songs everyday.
+- ⚡ Fun fact: I like playing games and listening songs.
 
 [![Twitter: ggramadhan](https://img.shields.io/twitter/follow/ggramadhan__?style=social)](https://twitter.com/ggramadhan__)
 [![Linkedin: ggramadhann](https://img.shields.io/badge/-ggramadhann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ggramadhann/)](https://www.linkedin.com/in/ggramadhann/)
